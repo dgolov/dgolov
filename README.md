@@ -3,8 +3,7 @@
 <a href="https://vk.com/d.golov"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" width="40"></a> <a href="https://t.me/dgolov"><img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="40"></a> <a href="https://www.facebook.com/profile.php?id=100005549508049"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" width="40" float="left"></a>
 
 
-### My technology stack
----
+## My technology stack
 
 #### Back-end
 
@@ -33,8 +32,8 @@
 ![image](https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974)
 ![image](https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)
 
-### Stats
----
+## Stats
+
 ![image](https://github-readme-stats.vercel.app/api?username=dgolov&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true)
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=dgolov&amp;layout=compact&amp;count_private=true&amp;theme=gruvbox)
