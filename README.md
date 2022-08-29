@@ -14,6 +14,8 @@
 ![image](https://camo.githubusercontent.com/76a8ca65ea45604ace6d6408510e4a16864599759b16849791538ffe9098c726/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446a616e676f5f4368616e6e656c732d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d446a616e676f)
 ![image](https://camo.githubusercontent.com/3af53f77d69af05f719a9ab709e178c3e32c0b208e225f42d01bc167d7cd8ca0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c61736b2d2532333263336535303f7374796c653d666c61742d737175617265266c6f676f3d466c61736b)
 ![image](https://img.shields.io/badge/aiohttp-2C5BB4?logo=aiohttp)
+![image](https://img.shields.io/badge/asyncio-5000B9)
+![image](https://img.shields.io/badge/sqlalchemy-004088)
 ![image](https://img.shields.io/badge/pytest-DF0067?logo=pytest)
 
 #### Databases
