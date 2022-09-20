@@ -41,6 +41,10 @@
 ![image](https://img.shields.io/badge/GitLab-db8400?logo=GitLab)
 ![image](https://img.shields.io/badge/CI/CD-critical)
 
+#### Learning
+![image](https://img.shields.io/badge/go-6a6a6a?logo=go)
+
+
 
 ## Stats
 
