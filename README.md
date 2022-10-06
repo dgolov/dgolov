@@ -1,6 +1,9 @@
 ## Hi there 👋 I'm a Back-end developer
 
-<a href="https://vk.com/d.golov"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" width="40"></a> <a href="https://t.me/dgolov"><img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="40"></a> <a href="https://www.facebook.com/profile.php?id=100005549508049"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" width="40" float="left"></a>
+<a href="https://vk.com/d.golov"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" width="40"></a> 
+<a href="https://t.me/dgolov"><img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="40"></a> 
+<a href="https://www.facebook.com/profile.php?id=100005549508049"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" width="40" float="left"></a>
+<a href="https://www.linkedin.com/in/dmitriy-golov-385643224/"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="40" float="left"></a>
 
 
 ## My technology stack
