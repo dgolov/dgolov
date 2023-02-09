@@ -20,8 +20,8 @@
 ![image](https://img.shields.io/badge/aiohttp-2C5BB4?logo=aiohttp)
 ![image](https://img.shields.io/badge/asyncio-5000B9)
 ![image](https://img.shields.io/badge/sqlalchemy-004088)
-![image](https://img.shields.io/badge/pytest-DF0067?logo=pytest)
 ![image](https://img.shields.io/badge/pydantic-ed1a72)
+![image](https://img.shields.io/badge/pytest-DF0067?logo=pytest)
 
 #### Databases
 ![image](https://img.shields.io/badge/MySQL-ff576a?logo=MySQL)
