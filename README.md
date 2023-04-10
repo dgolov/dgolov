@@ -56,4 +56,4 @@
 
 ![image](https://github-readme-stats.vercel.app/api?username=dgolov&amp;show_icons=true&amp;theme=blue-green&amp;include_all_commits=true&amp;count_private=true)
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=dgolov&amp;layout=compact&amp;count_private=true&amp;langs_count=8&amp;theme=blue-green)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=dgolov&amp;layout=compact&amp;count_private=true&amp;langs_count=12&amp;theme=blue-green)
