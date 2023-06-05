@@ -8,6 +8,11 @@
 
 ## My technology stack
 
+#### Information Security
+
+![image](https://img.shields.io/badge/Vulnerability&nbsp;Management-4193e0)
+![image](https://img.shields.io/badge/IPTables-ed1a72?logo=IPTables)
+
 #### Back-end
 
 ![image](https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e)
@@ -46,9 +51,12 @@
 ![image](https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)
 ![image](https://img.shields.io/badge/GitLab-db8400?logo=GitLab)
 ![image](https://img.shields.io/badge/CI/CD-critical)
+![image](https://img.shields.io/badge/Prometheus-e08e41?logo=Prometheus)
+![image](https://img.shields.io/badge/Dnsmasq-b641e0?logo=Dnsmasq)
 
 #### Learning
 ![image](https://img.shields.io/badge/go-6a6a6a?logo=go)
+![image](https://img.shields.io/badge/pentest-red)
 
 
 
