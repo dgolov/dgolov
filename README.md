@@ -57,7 +57,7 @@
 #### Learning
 ![image](https://img.shields.io/badge/go-6a6a6a?logo=go)
 ![image](https://img.shields.io/badge/pentest-red)
-
+![image](https://img.shields.io/badge/ansible-black?logo=ansible)
 
 
 ## Stats
