@@ -53,6 +53,7 @@
 ![image](https://img.shields.io/badge/CI/CD-critical)
 ![image](https://img.shields.io/badge/Prometheus-e08e41?logo=Prometheus)
 ![image](https://img.shields.io/badge/Dnsmasq-b641e0?logo=Dnsmasq)
+![image](https://img.shields.io/badge/nginx-green?logo=nginx)
 
 #### Learning
 ![image](https://img.shields.io/badge/go-6a6a6a?logo=go)
