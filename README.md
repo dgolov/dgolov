@@ -53,8 +53,9 @@
 ![image](https://img.shields.io/badge/GitLab-db8400?logo=GitLab)
 ![image](https://img.shields.io/badge/CI/CD-critical)
 ![image](https://img.shields.io/badge/Prometheus-e08e41?logo=Prometheus)
-![image](https://img.shields.io/badge/Dnsmasq-b641e0?logo=Dnsmasq)
+![image](https://img.shields.io/badge/Dnsmasq-781fed?logo=Dnsmasq)
 ![image](https://img.shields.io/badge/nginx-green?logo=nginx)
+![image](https://img.shields.io/badge/sentry-a753db?logo=sentry)
 
 #### Learning
 ![image](https://img.shields.io/badge/go-6a6a6a?logo=go)
