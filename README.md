@@ -57,6 +57,7 @@
 ![image](https://img.shields.io/badge/nginx-green?logo=nginx)
 ![image](https://img.shields.io/badge/sentry-a753db?logo=sentry)
 ![image](https://img.shields.io/badge/ansible-black?logo=ansible)
+![image](https://img.shields.io/badge/artifactory-d9fae0?logo=jfrog)
 
 #### Learning
 ![image](https://img.shields.io/badge/go-6a6a6a?logo=go)
