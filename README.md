@@ -1,4 +1,4 @@
-# Hi there 👋 I'm a Back-end developer
+# Hi there 👋 I'm a Full-Stack developer
 
 <a href="https://vk.com/d.golov"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" width="40"></a> 
 <a href="https://t.me/dgolov"><img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="40"></a> 
@@ -58,10 +58,12 @@
 ![image](https://img.shields.io/badge/nginx-green?logo=nginx)
 ![image](https://img.shields.io/badge/sentry-a753db?logo=sentry)
 ![image](https://img.shields.io/badge/ansible-black?logo=ansible)
-![image](https://img.shields.io/badge/artifactory-d9fae0?logo=jfrog)
+![image](https://img.shields.io/badge/artifactory-acebab?logo=jfrog)
 
 #### Learning
 ![image](https://img.shields.io/badge/go-6a6a6a?logo=go)
+![image](https://img.shields.io/badge/TypeScript-70a5e0?logo=typescript)
+![image](https://img.shields.io/badge/React-blue?logo=react)
 ![image](https://img.shields.io/badge/pentest-red)
 
 
