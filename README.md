@@ -28,6 +28,7 @@
 ![image](https://img.shields.io/badge/pydantic-ed1a72?logo=pydantic)
 ![image](https://img.shields.io/badge/pytest-DF0067?logo=pytest)
 ![image](https://img.shields.io/badge/aiogram-blue?logo=telegram)
+![image](https://img.shields.io/badge/poetry-24719e?logo=poetry)
 
 #### Databases
 ![image](https://img.shields.io/badge/MySQL-ff576a?logo=MySQL)
