@@ -13,6 +13,7 @@
 #### Information Security
 
 ![image](https://img.shields.io/badge/Vulnerability&nbsp;Management-4193e0)
+![image](https://img.shields.io/badge/OSINT-red) 
 ![image](https://img.shields.io/badge/IPTables-ed1a72?logo=IPTables)
 
 #### Back-end
