@@ -14,7 +14,6 @@
 
 ![image](https://img.shields.io/badge/Vulnerability&nbsp;Management-4193e0)
 ![image](https://img.shields.io/badge/OSINT-red) 
-![image](https://img.shields.io/badge/IPTables-ed1a72?logo=IPTables)
 
 #### Back-end
 
@@ -62,6 +61,7 @@
 ![image](https://img.shields.io/badge/nginx-green?logo=nginx)
 ![image](https://img.shields.io/badge/sentry-a753db?logo=sentry)
 ![image](https://img.shields.io/badge/ansible-black?logo=ansible)
+![image](https://img.shields.io/badge/IPTables-ed1a72?logo=IPTables)
 ![image](https://img.shields.io/badge/artifactory-acebab?logo=jfrog)
 
 #### Learning
