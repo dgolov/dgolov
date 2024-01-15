@@ -1,7 +1,7 @@
 # Hi there 👋 I'm a Full-Stack developer
 
 <a href="https://vk.com/d.golov"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" width="40"></a> 
-<a href="https://t.me/dmgolov"><img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="40"></a> 
+<a href="https://t.me/dmgolov"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="40"></a> 
 <a href="https://www.facebook.com/profile.php?id=100005549508049"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" width="40" float="left"></a>
 <a href="https://www.linkedin.com/in/dmitriy-golov-385643224/"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="40" float="left"></a>
 <a href="https://habr.com/ru/users/dgolov/"> <img src="https://img.hhcdn.ru/employer-logo/3823740.png" width="40" float="left"></a>
@@ -37,7 +37,7 @@
 ![image](https://img.shields.io/badge/MySQL-5ad6a2?logo=MySQL)
 ![image](https://img.shields.io/badge/Postgres-5ab9d6?logo=postgresql)
 ![image](https://img.shields.io/badge/MongoDB-green?logo=MongoDB)
-![image](https://camo.githubusercontent.com/dc32909d12e70339fae97aea401080055ca65944dd6e930eb74084eda1bb3d73/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656469732d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d5265646973)
+![image](https://img.shields.io/badge/redis-gray?logo=redis)
 
 #### Front-end
 
@@ -50,11 +50,11 @@
 
 #### Tools
 
-![image](https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
-![image](https://camo.githubusercontent.com/566080f1f10a299450280c8b9430bf6c24ce39b71098ccee2ffed461c1b151d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6c696e7578)
-![image](https://camo.githubusercontent.com/63d5edbb98bb4d51cdb7d146516f0450ad73c889fa76f042f06813edd8c691cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4643413132313f7374796c653d666c61742d737175617265266c6f676f3d706f73746d616e)
-![image](https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974)
-![image](https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)
+![image](https://img.shields.io/badge/git-black?logo=git)
+![image](https://img.shields.io/badge/github-black?logo=github)
+![image](https://img.shields.io/badge/docker-gray?logo=docker)
+![image](https://img.shields.io/badge/PyCharm-blue?logo=pycharm)
+![image](https://img.shields.io/badge/Linux-black?logo=linux)
 ![image](https://img.shields.io/badge/GitLab-db8400?logo=GitLab)
 ![image](https://img.shields.io/badge/CI/CD-critical)
 ![image](https://img.shields.io/badge/Prometheus-e08e41?logo=Prometheus)
