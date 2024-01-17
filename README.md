@@ -33,8 +33,8 @@
 ![image](https://img.shields.io/badge/atlassian_api-blue?logo=atlassian)
 
 #### Databases
-![image](https://img.shields.io/badge/MySQL-5ad6a2?logo=MySQL)
-![image](https://img.shields.io/badge/Postgres-5ab9d6?logo=postgresql)
+![image](https://img.shields.io/badge/MySQL-red?logo=MySQL)
+![image](https://img.shields.io/badge/Postgres-lightgray?logo=postgresql)
 ![image](https://img.shields.io/badge/MongoDB-green?logo=MongoDB)
 ![image](https://img.shields.io/badge/redis-gray?logo=redis)
 
