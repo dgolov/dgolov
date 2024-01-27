@@ -32,7 +32,7 @@
 ![image](https://img.shields.io/badge/poetry-24719e?logo=poetry)
 ![image](https://img.shields.io/badge/atlassian_api-blue?logo=atlassian)
 
-#### Databases
+#### Databases & Queues
 ![image](https://img.shields.io/badge/MySQL-red?logo=MySQL)
 ![image](https://img.shields.io/badge/Postgres-lightgray?logo=postgresql)
 ![image](https://img.shields.io/badge/MongoDB-green?logo=MongoDB)
