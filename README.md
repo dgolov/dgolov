@@ -37,6 +37,7 @@
 ![image](https://img.shields.io/badge/Postgres-lightgray?logo=postgresql)
 ![image](https://img.shields.io/badge/MongoDB-green?logo=MongoDB)
 ![image](https://img.shields.io/badge/redis-gray?logo=redis)
+![image](https://img.shields.io/badge/rabbitmq-blue?logo=rabbitmq)
 
 #### Front-end
 
