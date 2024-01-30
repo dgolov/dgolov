@@ -55,6 +55,7 @@
 ![image](https://img.shields.io/badge/docker-gray?logo=docker)
 ![image](https://img.shields.io/badge/PyCharm-blue?logo=pycharm)
 ![image](https://img.shields.io/badge/Linux-black?logo=linux)
+![image](https://img.shields.io/badge/bash-black)
 ![image](https://img.shields.io/badge/GitLab-db8400?logo=GitLab)
 ![image](https://img.shields.io/badge/CI/CD-critical?logo=ci/cd)
 ![image](https://img.shields.io/badge/Prometheus-e08e41?logo=Prometheus)
