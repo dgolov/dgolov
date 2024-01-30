@@ -48,7 +48,7 @@
 ![image](https://img.shields.io/badge/CSS-black?logo=css3)
 ![image](https://img.shields.io/badge/jinja-gray?logo=jinja)
 
-#### Tools
+#### Tools & Technologies
 
 ![image](https://img.shields.io/badge/git-black?logo=git)
 ![image](https://img.shields.io/badge/github-black?logo=github)
