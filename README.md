@@ -14,6 +14,8 @@
 
 ![image](https://img.shields.io/badge/Vulnerability&nbsp;Management-4193e0)
 ![image](https://img.shields.io/badge/OSINT-red) 
+![image](https://img.shields.io/badge/pentest-black)
+![image](https://img.shields.io/badge/metasploit-red)
 
 #### Back-end
 
@@ -71,7 +73,6 @@
 ![image](https://img.shields.io/badge/go-6a6a6a?logo=go)
 ![image](https://img.shields.io/badge/TypeScript-70a5e0?logo=typescript)
 ![image](https://img.shields.io/badge/React-blue?logo=react)
-![image](https://img.shields.io/badge/pentest-red)
 
 
 ## Stats
