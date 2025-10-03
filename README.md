@@ -69,6 +69,7 @@
 ![image](https://img.shields.io/badge/ansible-black?logo=ansible)
 ![image](https://img.shields.io/badge/IPTables-ed1a72?logo=IPTables)
 ![image](https://img.shields.io/badge/artifactory-114a13?logo=jfrog)
+![image](https://img.shields.io/badge/vault-gray?logo=hashicorp)
 
 #### Learning
 ![image](https://img.shields.io/badge/go-6a6a6a?logo=go)
