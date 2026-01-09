@@ -58,7 +58,7 @@
 ![image](https://img.shields.io/badge/docker-gray?logo=docker)
 ![image](https://img.shields.io/badge/PyCharm-blue?logo=pycharm)
 ![image](https://img.shields.io/badge/Linux-black?logo=linux)
-![image](https://img.shields.io/badge/bash-black)
+![image](https://img.shields.io/badge/bash-black?logo=zsh)
 ![image](https://img.shields.io/badge/GitLab-db8400?logo=GitLab)
 ![image](https://img.shields.io/badge/CI/CD-critical?logo=ci/cd)
 ![image](https://img.shields.io/badge/Prometheus-e08e41?logo=Prometheus)
@@ -70,6 +70,7 @@
 ![image](https://img.shields.io/badge/IPTables-ed1a72?logo=IPTables)
 ![image](https://img.shields.io/badge/artifactory-114a13?logo=jfrog)
 ![image](https://img.shields.io/badge/vault-gray?logo=hashicorp)
+![image](https://img.shields.io/badge/ELK-005571?logo=elastic)
 
 #### Learning
 ![image](https://img.shields.io/badge/go-6a6a6a?logo=go)
