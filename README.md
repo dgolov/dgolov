@@ -71,6 +71,7 @@
 ![image](https://img.shields.io/badge/artifactory-114a13?logo=jfrog)
 ![image](https://img.shields.io/badge/vault-gray?logo=hashicorp)
 ![image](https://img.shields.io/badge/ELK-005571?logo=elastic)
+![image](https://img.shields.io/badge/vector-black?logo=vector)
 
 #### Learning
 ![image](https://img.shields.io/badge/go-6a6a6a?logo=go)
