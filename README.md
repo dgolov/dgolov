@@ -8,7 +8,6 @@
 
 ## My technology stack
 
-![image](https://img.shields.io/badge/code%20style-python%20community%202023-blue)
 
 #### Information Security
 
