@@ -41,6 +41,7 @@
 ![image](https://img.shields.io/badge/MongoDB-green?logo=MongoDB)
 ![image](https://img.shields.io/badge/redis-gray?logo=redis)
 ![image](https://img.shields.io/badge/rabbitmq-blue?logo=rabbitmq)
+![image](https://img.shields.io/badge/Clickhouse-black?logo=clickhouse)
 
 #### Front-end
 
@@ -78,7 +79,6 @@
 ![image](https://img.shields.io/badge/go-6a6a6a?logo=go)
 ![image](https://img.shields.io/badge/TypeScript-70a5e0?logo=typescript)
 ![image](https://img.shields.io/badge/React-blue?logo=react)
-![image](https://img.shields.io/badge/Clickhouse-black?logo=clickhouse)
 
 
 ## Stats
