@@ -33,6 +33,7 @@
 ![image](https://img.shields.io/badge/poetry-24719e?logo=poetry)
 ![image](https://img.shields.io/badge/atlassian_api-blue?logo=atlassian)
 ![image](https://img.shields.io/badge/gRPC-gray?logo=grpc)
+![image](https://img.shields.io/badge/GraphQL-DF0067?logo=GraphQL)
 
 #### Databases & Queues
 ![image](https://img.shields.io/badge/MySQL-red?logo=MySQL)
